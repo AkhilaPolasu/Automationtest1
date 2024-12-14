@@ -6,6 +6,7 @@ class MyNum:
         print(self.abc)
 a1=MyNum(8)
 a1.display()
+print("num")
 # del a1.abc
 # print(a1)
 # a1.display()
